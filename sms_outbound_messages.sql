@@ -24,10 +24,10 @@ TRUNCATE TABLE `sms_outbound_messages`;
 
 INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(129, 10, '4', '3313400265', 'carlos 1', '2018-03-05 11:18:05', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(130, 10, '1', '3313400265', 'carlos 2', '2018-03-05 11:18:05', 'success', 1);
-INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(131, 10, '2', '3313400265', 'un aviso de ocación 3', '2018-03-05 11:18:06', 'success', 1);
+INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(131, 10, '2', '3313400265', 'un aviso de ocasión 3', '2018-03-05 11:18:06', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(132, 10, '3', '3313400265', 'el problema está resuelto', '2018-03-05 11:18:17', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(133, 10, '4', '3313400265', 'este es la prueba 5', '2018-03-05 11:18:17', 'success', 1);
-INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(134, 10, '1', '3313400265', 'este es la prueba 6', '2018-03-05 11:18:18', 'success', 1);
+INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(134, 10, '1', '3313400265', 'de que efectivamente se resolvió 6', '2018-03-05 11:18:18', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(135, 10, '2', '3313400265', '1111', '2018-03-05 11:18:18', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(136, 10, '3', '3313400265', '1111111111111', '2018-03-05 11:18:29', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(137, 10, '4', '3313400265', '2222222222222', '2018-03-05 11:18:29', 'success', 1);
