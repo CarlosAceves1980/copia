@@ -22,8 +22,8 @@ CREATE TABLE `sms_outbound_messages` (
 
 TRUNCATE TABLE `sms_outbound_messages`;
 
-INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(129, 10, '4', '3313400265', 'carlos 1zzzzzddzzzzzzz', '2018-03-05 11:18:05', 'success', 1);
-INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(130, 10, '1', '3313400265', 'carlos 2xxxxxxxxxxx', '2018-03-05 11:18:05', 'success', 1);
+INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(129, 10, '4', '3313400265', 'zzzzzzzzzcarlos 1zzzzzddzzzzzzz', '2018-03-05 11:18:05', 'success', 1);
+INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(130, 10, '1', '3313400265', 'cahhhhrlos 2xxxxxxxxxxx', '2018-03-05 11:18:05', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(131, 10, '2', '3313400265', 'udfsdfsfsf', '2018-03-05 11:18:06', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(132, 10, '3', '3313400265', 'el problema está resuelto', '2018-03-05 11:18:17', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camp_fk`, `port`, `phone`, `message`, `sendtime`, `status`, `intento`) VALUES(133, 10, '4', '3313400265', 'esta es la prueba 5', '2018-03-05 11:18:17', 'success', 1);
