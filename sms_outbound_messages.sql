@@ -22,7 +22,7 @@ CREATE TABLE `sms_outbound_messages` (
 
 TRUNCATE TABLE `sms_outbound_messages`;
 
-INSERT INTO `sms_outbound_messages` (`id`, `id_camping_fk`, `port`, `chaphone`, `message`, `sendtime`, `estatutos de estado =)`, `intento`) VALUES(130, 10, '1', '3313400265', '111', '2018-03-05 11:18:05', 'success', 1);
+INSERT INTO `sms_outbound_messages` (`id`, `id_camping_fk`, `port`, `chaphone`, `message`, `sendtime`, `estatutos de estado =)`, `intento`) VALUES(130, 10, '1', '3313400265', '111xx', '2018-03-05 11:18:05', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camping_fk`, `port`, `chaphone`, `message`, `sendtime`, `estatutos de estado =)`, `intento`) VALUES(129, 10, '4', '3313400265', '222', '2018-03-05 11:18:05', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camping_fk`, `port`, `chaphone`, `message`, `sendtime`, `estatutos de estado =)`, `intento`) VALUES(131, 10, '2', '3313400265', '333', '2018-03-05 11:18:06', 'success', 1);
 INSERT INTO `sms_outbound_messages` (`id`, `id_camping_fk`, `port`, `chaphone`, `message`, `sendtime`, `estatutos de estado =)`, `intento`) VALUES(132, 10, '3', '3313400265', '444', '2018-03-05 11:18:17', 'success', 1);
